@@ -1,0 +1,60 @@
+body {
+  background-color: #2b2b2b;
+  color: #e6bebe;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.button-text {
+  color: black;
+}
+
+.button-background {
+  background-color: lightgray;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: white;
+}
+
+.btn-outline-light {
+  color: #e0e0e0;
+  border-color: #e0e0e0;
+}
+
+.btn-outline-light:hover {
+  color: black;
+  background-color: #e0e0e0;
+}
+
+.card {
+  background-color: #3b3b3b;
+  border: none;
+}
+
+.card-header {
+  background-color: #4b4b4b;
+  color: white;
+}
+
+.list-group-item {
+  background-color: #3b3b3b;
+  color: #e0e0e0;
+  border: none;
+}
+
+.input-group-text,
+.form-control {
+  background-color: #4b4b4b;
+  color: #e0e0e0;
+  border: 1px solid #4b4b4b;
+}
+
+.form-control:focus {
+  background-color: #4b4b4b;
+  color: #e0e0e0;
+  border-color: #5b5b5b;
+  box-shadow: none;
+}
